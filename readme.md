@@ -36,3 +36,6 @@ which will classify any pictures in the "testImages" folder
 
 The script "bird.py" is just the example from tensor flow, and has no special magic to make it run (apart from the blackbox that is TF...)
 
+# Dataset
+
+I have not included the dataset, as I don't own the copyright. However if you wish to obtain a copy, please get in touch
