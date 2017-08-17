@@ -73,14 +73,14 @@ LargeBirds4 however has many more species it can detect:
 1.  cat
 1.  pied flycatcher
 1.  swallow
-1   great black backed gull
-1   blackbird
-1   crested tit
-1   lesser spotted woodpecker
-1   robin
-1   herring gull
+1.  great black backed gull
+1.  blackbird
+1.  crested tit
+1.  lesser spotted woodpecker
+1.  robin
+1.  herring gull
 
-This should cover most common animals in your garden. 
+This should cover most common birds in your garden. 
 
 # How to run
 
